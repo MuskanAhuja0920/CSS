@@ -1,0 +1,64 @@
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index:10;
+}
+.navbar-nav li a
+{
+	float: right;
+	text-align: left;
+}
+#nav-bar ul li a:hover
+{
+	color: #007bff;
+}
+.navbar
+{
+	background: #fff;
+}
+.navbar-toggler
+{
+	border:none;
+}
+.nav-link
+{
+	color: #555;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+/*--------slider--------*/
+#slider
+{
+	width:100%;
+}
+
+/*-----------------About---------------*/
+#about
+{
+	padding-top:50px;
+	padding-bottom: 50px;
+	color; #555;
+}
+
+#about .btn{
+	margin-top: 20px;
+	margin-bottom:30px;
+}
+.aboout-content
+{
+	padding-top: 20px;
+}
+
+.skills-bar p{
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+.progress-bar{
+	border-radius: 16px;
+}
+.progree
+{
+	border-radius:16px;
+margin-bottom: 20px;}
